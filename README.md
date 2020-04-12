@@ -1,6 +1,8 @@
 # grape_disease_classification
 images source: https://github.com/spMohanty/PlantVillage-Dataset
-Download the whol repo and proceed with the code
+Download the whole repo and proceed with the code
+
+For this project, a mat file was used. It contains the aggregated images to be used as training set. 
 
 Content:
 1. directory preparation
